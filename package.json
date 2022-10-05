@@ -1,0 +1,16 @@
+{
+  "name": "eslint-mdx-multiline-prop-error",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint --ext .mdx ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.24.0",
+    "eslint-plugin-mdx": "^2.0.5"
+  }
+}
